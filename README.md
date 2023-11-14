@@ -1,7 +1,7 @@
 # NGS-pipelines
 ## Next-Generation Sequencing pipeline
 **Include:**
-* Whole genome Sequencing workflow
+* Whole Genome Sequencing workflow
 * RNA-seq workflow
 
 ### You will need to install the following package via BioConda for these pipelines
